@@ -1,0 +1,23 @@
+{
+  "name": "playwright_certification_tests",
+  "version": "1.0.0",
+  "description": "Odevzdání certifikační práce",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magdush/playwright_certification_tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Magdush/playwright_certification_tests/issues"
+  },
+  "homepage": "https://github.com/Magdush/playwright_certification_tests#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^10.1.0",
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.2"
+  }
+}

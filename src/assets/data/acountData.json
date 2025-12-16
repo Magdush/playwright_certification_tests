@@ -1,0 +1,32 @@
+[
+  {
+    "accountNumber": "1000001",
+    "accountType": "Test1",
+    "balance": 0,
+    "status": "Active"
+  },
+  {
+    "accountNumber": "1000002",
+    "accountType": "Test2",
+    "balance": 200000.52,
+    "status": "Active"
+  },
+  {
+    "accountNumber": "1000003",
+    "accountType": "Test3",
+    "balance": -12345.0,
+    "status": "Active"
+  },
+  {
+    "accountNumber": "1000004",
+    "accountType": "Test4",
+    "balance": -196000921,
+    "status": "Active"
+  },
+  {
+    "accountNumber": "1000005",
+    "accountType": "Test5",
+    "balance": 298000123,
+    "status": "Active"
+  }
+]
